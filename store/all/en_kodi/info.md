@@ -9,32 +9,32 @@ Allows:
 NB: * means any word at this location
 
 # Use
-You: `KODI BOTTOM` (Directs down)   
-You: `KODI HIGH` (Runs up)   
-You: `KODI LEFT` (Directs to the left)   
-You: `KODI RIGHT` (Directs to the right)   
-You: `KODI LOW SOUND` (Met volume was 25 percent)   
-You: `KODI NORMAL SOUND` (Met volume was 50 percent)   
-You: `KODI HIGH SOUND` (Met volume was 90 percent)   
-You: `KODI SHOW*INFORMATIONS*MOVIE` (Displays the informations about the movie)   
-You: `KODI MUTE` (Mute the movie sound and Kodi)   
-You: `KODI RETURN` (Goes back to one step in the menu)   
-You: `KODI NO MUTE` (Turns again the movie and Kodi)   
-You: `KODI MAIN MENU` (Display the main menu of Kodi)   
-You: `KODI PAUSE` (Suspend the movie)   
-You: `KODI PLAY` (Play again the movie)   
-You: `KODI ENABLE*SUBTITLES`   
-You: `KODI DISABLE*SUBTITLES`   
-You: `KODI NEXT SUBTITLE` (load the next subtitle of the movie if available)   
-You: `KODI CONFIRM` (Synonym OK)   
-You: `KODI FULLSCREEN` (put the movie in fullscreen)   
-You: `KODI STOP` (Stop to show the movie)   
-You: `KODI MOVIES LIST` (Opens the list of films)   
-You: `KODI MUSICS LIST` (Opens the list of music)   
-You: `KODI PICTURES LIST` (Opens the list of photos)   
-You: `RESTART KODI` (Used to stop the current Kodi process and to start a new)   
-You: `QUIT KODI` (Exits Kodi)   
-You: `START KODI` (Starts Kodi if it is not yet active)   
+You: `CODY BOTTOM` (Directs down)   
+You: `CODY HIGH` (Runs up)   
+You: `CODY LEFT` (Directs to the left)   
+You: `CODY RIGHT` (Directs to the right)   
+You: `CODY LOW SOUND` (Met volume was 25 percent)   
+You: `CODY NORMAL SOUND` (Met volume was 50 percent)   
+You: `CODY HIGH SOUND` (Met volume was 90 percent)   
+You: `CODY SHOW*INFORMATIONS*MOVIE` (Displays the informations about the movie)   
+You: `CODY MUTE` (Mute the movie sound and Kodi)   
+You: `CODY RETURN` (Goes back to one step in the menu)   
+You: `CODY NO MUTE` (Turns again the movie and Kodi)   
+You: `CODY MAIN MENU` (Display the main menu of Kodi)   
+You: `CODY PAUSE` (Suspend the movie)   
+You: `CODY PLAY` (Play again the movie)   
+You: `CODY ENABLE*SUBTITLES`   
+You: `CODY DISABLE*SUBTITLES`   
+You: `CODY NEXT SUBTITLE` (load the next subtitle of the movie if available)   
+You: `CODY CONFIRM` (Synonym OK)   
+You: `CODY FULLSCREEN` (put the movie in fullscreen)   
+You: `CODY STOP` (Stop to show the movie)   
+You: `CODY MOVIES LIST` (Opens the list of films)   
+You: `CODY MUSICS LIST` (Opens the list of music)   
+You: `CODY PICTURES LIST` (Opens the list of photos)   
+You: `RESTART CODY` (Used to stop the current Kodi process and to start a new)   
+You: `QUIT CODY` (Exits Kodi)   
+You: `START CODY` (Starts Kodi if it is not yet active)   
 
 # Author & Contributors
 Kevin CARADANT - kevin.caradant@gmail.com
